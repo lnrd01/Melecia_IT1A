@@ -39,7 +39,7 @@ from code_challenge12 import code_challenge12
 from code_challenge13 import code_challenge13
 from code_challenge14 import code_challenge14
 from code_challenge15 import code_challenge15
-# from code_challenge16 import code_challenge16
+from code_challenge16 import code_challenge16
 import os
 def finals():
     fun = True
@@ -186,7 +186,7 @@ def finals():
                     code_challenge15()
                 elif choose2 == "16":
                     print("This is my code challenge no.2")
-                    # code_challenge16()
+                    code_challenge16()
                     pass
                 elif choose2 == "0":
                     break
